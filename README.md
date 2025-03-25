@@ -1,5 +1,4 @@
 # Gesture-controlled-Car
-# Gesture-Controlled Car
 
 ## Overview
 This project enables a car to be controlled using hand gestures detected via a webcam. The system interprets finger movements and sends commands to an Arduino, which controls the car's motion using an L298N motor driver. This touchless control system is useful for robotics applications and smart automation.
@@ -53,7 +52,5 @@ This project enables a car to be controlled using hand gestures detected via a w
 - `main.py`: Handles hand detection and gesture recognition.
 - `controller.py`: Controls the car's motors based on recognized gestures.
 
-## Acknowledgments
-Special thanks to OpenCV and CVZone for hand detection libraries and PyFirmata for Arduino communication.
 
 
