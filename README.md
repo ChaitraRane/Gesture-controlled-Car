@@ -52,5 +52,5 @@ This project enables a car to be controlled using hand gestures detected via a w
 - `main.py`: Handles hand detection and gesture recognition.
 - `controller.py`: Controls the car's motors based on recognized gestures.
 
-
+https://github.com/ChaitraRane/Gesture-controlled-Car/blob/main/Gesture%20Control%20Video.mp4
 
